@@ -1,0 +1,49 @@
+------------------------------------------------------------------
+* We should not use Live Premier Pages in PROD
+* we have to use always Test Pages in PROD
+* Please get it cancel premier test orders in PROD, if you place
+* Don't use DnS swither @ home
+-----------------------------------------------------------------------------------
+Test Environments: G1, G2, G3 and G4 SIT - these environments use for only OLR apps
+Test Environments: RO1, RO2, RO3 and RO4 - these environments user for only RO apps
+-----------------------------------------------------------------------------------
+
+
+CS Premier [Current State /Non Migrated]
+**********
+OST
+PCS
+PremierPortal
+Premierconfigure
+PremierEcomm
+SnP
+----------------------------------------------------
+Premier OLR [Premier Future State / Migrated Stores]
+****************************************************
+OST
+PCS
+Shop & Browse
+Account Management
+Config UX [Config OLR]
+Cart and Checkout UI
+SnP
+
+Premier RO
+***********
+OST
+PCS
+Shop RO
+Account RO
+Config RO
+Cart RO
+-----------------
+
+Americas [US , Canada & LA [Brazil, Mexico, Argentina, CO, Peru...etc]
+EMEA [
+APJ [
+
+Types of Premier Pages:
+************************
+Global Premier 
+Global Portal
+Unauthenticated Premier Pages
